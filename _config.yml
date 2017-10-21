@@ -26,7 +26,7 @@ github_username:  abdurrezzak
 
 # Build settings
 markdown: kramdown
-theme: bef
+theme: jekyll-theme canvas
 plugins:
   - jekyll-feed
 
